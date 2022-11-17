@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\timer\bin\Debug\net6.0\timer.exe
+C:\Users\hp\Desktop\Tasks\timer\bin\Debug\net6.0\timer.deps.json
+C:\Users\hp\Desktop\Tasks\timer\bin\Debug\net6.0\timer.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\timer\bin\Debug\net6.0\timer.dll
+C:\Users\hp\Desktop\Tasks\timer\bin\Debug\net6.0\timer.pdb
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.dll
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\refint\timer.dll
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.pdb
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\timer.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\timer\obj\Debug\net6.0\ref\timer.dll
